@@ -1,5 +1,5 @@
 {
-    "name": "igor/aula-compose",
+    "name": "Igorlinux/aula-compose",
     "description": "Composer da aula do Vitor Mattos",
     "keywords": ["composer", "study", "docker"],
     "license": "GPL-3.0-or-later",
@@ -9,7 +9,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/igorlinux/aula-composer-issues"
+        "issues": "https://github.com/Igorlinux/workshop-composer/issues"
     },
     "require": {
         "vlucas/phpdotenv": "^3.6"
